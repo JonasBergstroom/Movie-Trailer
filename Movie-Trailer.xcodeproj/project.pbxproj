@@ -16,6 +16,7 @@
 		2E631EA829196F81006A5B10 /* UpcomingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E631EA729196F81006A5B10 /* UpcomingViewController.swift */; };
 		2E631EAA29196FA5006A5B10 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E631EA929196FA5006A5B10 /* SearchViewController.swift */; };
 		2E631EAC29196FE2006A5B10 /* FavoriteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E631EAB29196FE2006A5B10 /* FavoriteViewController.swift */; };
+		2E631EB329197930006A5B10 /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E631EB229197930006A5B10 /* CollectionViewTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		2E631EA729196F81006A5B10 /* UpcomingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpcomingViewController.swift; sourceTree = "<group>"; };
 		2E631EA929196FA5006A5B10 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		2E631EAB29196FE2006A5B10 /* FavoriteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteViewController.swift; sourceTree = "<group>"; };
+		2E631EB229197930006A5B10 /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 		2E631EB02919789A006A5B10 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				2E631EB229197930006A5B10 /* CollectionViewTableViewCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 			files = (
 				2E631EAA29196FA5006A5B10 /* SearchViewController.swift in Sources */,
 				2E631E9529196BBE006A5B10 /* MainTabBarViewController.swift in Sources */,
+				2E631EB329197930006A5B10 /* CollectionViewTableViewCell.swift in Sources */,
 				2E631E9129196BBE006A5B10 /* AppDelegate.swift in Sources */,
 				2E631E9329196BBE006A5B10 /* SceneDelegate.swift in Sources */,
 				2E631EAC29196FE2006A5B10 /* FavoriteViewController.swift in Sources */,
