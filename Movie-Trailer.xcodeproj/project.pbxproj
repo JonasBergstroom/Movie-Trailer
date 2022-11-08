@@ -17,6 +17,7 @@
 		2E631EAA29196FA5006A5B10 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E631EA929196FA5006A5B10 /* SearchViewController.swift */; };
 		2E631EAC29196FE2006A5B10 /* FavoriteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E631EAB29196FE2006A5B10 /* FavoriteViewController.swift */; };
 		2E631EB329197930006A5B10 /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E631EB229197930006A5B10 /* CollectionViewTableViewCell.swift */; };
+		2E631EB5291A81C3006A5B10 /* MovieHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E631EB4291A81C3006A5B10 /* MovieHeaderUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		2E631EA929196FA5006A5B10 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		2E631EAB29196FE2006A5B10 /* FavoriteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteViewController.swift; sourceTree = "<group>"; };
 		2E631EB229197930006A5B10 /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
+		2E631EB4291A81C3006A5B10 /* MovieHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieHeaderUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 			isa = PBXGroup;
 			children = (
 				2E631EB229197930006A5B10 /* CollectionViewTableViewCell.swift */,
+				2E631EB4291A81C3006A5B10 /* MovieHeaderUIView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -197,6 +200,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E631EB5291A81C3006A5B10 /* MovieHeaderUIView.swift in Sources */,
 				2E631EAA29196FA5006A5B10 /* SearchViewController.swift in Sources */,
 				2E631E9529196BBE006A5B10 /* MainTabBarViewController.swift in Sources */,
 				2E631EB329197930006A5B10 /* CollectionViewTableViewCell.swift in Sources */,
